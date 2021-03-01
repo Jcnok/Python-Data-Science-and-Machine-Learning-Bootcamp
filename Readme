@@ -1,0 +1,13 @@
+Estudo de caso:
+
+Para este projeto estaremos analisando alguns dados de chamadas para o 911 do Kaggle. Os dados contém os seguintes campos:
+
+lat: Variável String, Latitude
+lng: Variável String, Longitude
+desc: Variável String, Descrição da Chamada de Emergência
+zip: Variável String, CEP
+título: Variável String, Título
+timeStamp: Variável String, AAAA-MM-DD HH: MM: SS
+twp: Variável String, Township
+addr: Variável String, Endereço
+e: Variável String, variável Dummy (sempre 1)
